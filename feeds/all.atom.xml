@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pradyumna Chatterjee</title><link href="https://pradyumnac.github.io/" rel="alternate"></link><link href="https://pradyumnac.github.io/feeds/all.atom.xml" rel="self"></link><id>https://pradyumnac.github.io/</id><updated>2019-09-24T14:49:00+05:30</updated><entry><title>Hello World!</title><link href="https://pradyumnac.github.io/hello-world.html" rel="alternate"></link><published>2019-09-24T14:49:00+05:30</published><updated>2019-09-24T14:49:00+05:30</updated><author><name>Pradyumna Chatterjee</name></author><id>tag:pradyumnac.github.io,2019-09-24:/hello-world.html</id><summary type="html">&lt;p&gt;Introduction rants..&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;Well, I have started blogs time and again. However, due to advances in technologies - Its now easier and cheaper than ever to host a pltform where you can capture and share your voice online.&lt;/p&gt;
+&lt;h2&gt;Enter SSG ( Static Site Generators)&lt;/h2&gt;
+&lt;p&gt;For the technologically uninclined, Static Site generators are resource lite collection of web pages can be hosted on any file server. They dont need to run any server side logic. 
+Thus, Hosting of any CDN, Dropbox, Amazon S3 or even git trepositories like github and gitlab is possible. alll side corganization is done before upload&lt;/p&gt;
+&lt;h2&gt;What to expect&lt;/h2&gt;
+&lt;p&gt;Anything and everything! Being a person with an inclination to think ( Sometimes toomuch and unnecessarily), it becomes important to capture your thoughts somewhere. Think of this site as a Diary/Journal which is public facing. Only my honest opinions and thoughts - sometimes innovative, sometimes bland; someother time laconic and comprehensive, Some times naive&lt;/p&gt;
+&lt;h2&gt;Why should this interest me&lt;/h2&gt;
+&lt;p&gt;Well, Most probably it wont. At least most of the time. The Topics I write are wde and far stretched to interest the most. However, You if are here, reading this blog, chances are you found some topic you were looking for and landed up here.&lt;br&gt;
+There would perhaps be some recurring themes/topics I will write frequently about. If the following interest you, Who not read some more:&lt;br&gt;
+* Technology
+    * Python
+    * Data Science &amp;amp; Statistics
+    * Tutorials
+    * Scripting
+* Socialogy
+* Productivity
+* Religion &amp;amp; Spirituality
+* Photography&lt;/p&gt;
+&lt;h2&gt;Where to next&lt;/h2&gt;
+&lt;p&gt;If you were able to read through all these rants, perhaps have a look at the following articles? Might interest you , might not&lt;/p&gt;
+&lt;p&gt;Also do check out my github repo whgere OI geerally script up utilities to bost daily productivity. Even The blog I am writing on is on a Python jupyter Notebook. 
+Check out &lt;a href="https://github.com/pradyumnac/pradyumnac.github.io"&gt;this github repo&lt;/a&gt; to know how I do it ( in the readme section)&lt;/p&gt;</content><category term="hello-world"></category><category term="introduction"></category></entry></feed>
